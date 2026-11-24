@@ -1,0 +1,16 @@
+{
+ "note": "Bilingual fusion map (PLAN §7): per line, segments [jaFrom, jaTo, zhFrom, zhTo] as character indexes into lines.json ja / zh (end exclusive). Each Japanese phrase is paired with the Chinese part that translates it. Indexes only — the words are read from the LRC at run time.",
+ "3":  [[0, 3, 0, 3], [4, 10, 9, 16], [10, 13, 16, 18], [13, 19, 4, 9]],
+ "4":  [[0, 3, 0, 3], [4, 8, 4, 9], [8, 11, 9, 16], [11, 15, 16, 19]],
+ "5":  [[0, 4, 0, 4]],
+ "7":  [[0, 5, 0, 4], [5, 14, 4, 10]],
+ "8":  [[0, 7, 0, 12]],
+ "9":  [[0, 9, 0, 7], [9, 18, 7, 11]],
+ "10": [[0, 3, 0, 5], [3, 6, 6, 10], [6, 13, 10, 12]],
+ "11": [[0, 4, 2, 4], [4, 6, 0, 2]],
+ "12": [[0, 5, 0, 5], [5, 10, 5, 9]],
+ "13": [[0, 5, 0, 6], [6, 10, 7, 10]],
+ "14": [[0, 7, 0, 4], [7, 10, 4, 11]],
+ "16": [[0, 5, 0, 5], [6, 17, 6, 14]],
+ "17": [[0, 4, 0, 4], [4, 6, 4, 5]]
+}

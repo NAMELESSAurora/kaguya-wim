@@ -1,0 +1,4 @@
+{
+ "note": "Per-line syllable times checked against the vocal stem's onsets (aligners bunch a line's syllables at its end). Line number → start time of each character of the line's text (spaces included as in the LRC).",
+ "11": [53.77, 54.12, 54.56, 54.76, 54.95, 55.2]
+}

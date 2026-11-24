@@ -1,0 +1,97 @@
+{
+"KC_hb_pout": {
+"bottom": 0.601
+},
+"KC_hb_sing": {
+"bottom": 0.656
+},
+"KC_heart": {},
+"KC_jump": {},
+"KC_wink": {},
+"KD_hb_smile": {
+"bottom": 0.957,
+"left": 0.006,
+"right": 0.347
+},
+"KD_hb_wink": {
+"bottom": 1.0,
+"left": 0.468,
+"right": 0.472
+},
+"KD_heart": {},
+"KD_jump": {
+"right": 0.004
+},
+"KD_peace": {},
+"KD_shy": {},
+"KD_wave": {
+"bottom": 0.052
+},
+"KK_cry": {
+"bottom": 0.084,
+"left": 0.025,
+"right": 0.004
+},
+"KK_hb_surprised": {
+"bottom": 0.9,
+"right": 0.205
+},
+"KK_jump": {
+"bottom": 0.113,
+"right": 0.016
+},
+"KK_peace": {
+"bottom": 0.014
+},
+"KK_pout": {},
+"K_peace_t1": {},
+"YC_hb_sing": {
+"bottom": 0.623
+},
+"YC_hb_smug": {
+"bottom": 0.742
+},
+"YC_kiss": {
+"bottom": 0.019,
+"right": 0.007
+},
+"YC_wave": {
+"left": 0.012
+},
+"YD_bow": {},
+"YD_hb_gentle": {
+"bottom": 1.0,
+"left": 0.25,
+"right": 0.287
+},
+"YD_heart": {
+"left": 0.139,
+"right": 0.066
+},
+"YD_kiss": {
+"left": 0.211,
+"right": 0.358
+},
+"YD_point": {
+"left": 0.136
+},
+"YD_twirl": {
+"left": 0.103,
+"right": 0.105
+},
+"YD_whisper": {},
+"YK_hb_whisper": {
+"bottom": 0.571
+},
+"YK_kiss": {
+"bottom": 0.055
+},
+"YK_point": {
+"bottom": 0.143
+},
+"YK_twirl": {},
+"YK_whisper": {},
+"Y_point_t1": {
+"bottom": 0.294
+}
+}

@@ -1,0 +1,25 @@
+# Renders, exports and QC stills: ~17 GB, and every finished master is far over GitHub's 100 MB a file.
+# They stay on the machine that made them.
+out/
+
+# The film itself (a symlink to the user's own copy) and every frame cut from it: 1.5 GB of JPGs, rebuilt
+# from the film with tools/frames.py using materials/frames.json (see README).
+materials/film/
+materials/frames/
+
+# Derived caches and scratch, rebuilt by the tools (see README): the 360p proxy and frame index of the film,
+# the 720p frame set, the Demucs vocal stem, check stills, logs, one-off backups.
+cache/*
+# …except the small analyses the tools start from
+!cache/film/
+cache/film/*
+!cache/film/shots.json
+!cache/film/scenes.txt
+!cache/film/wimlive_shots.json
+
+# Machine-local
+.claude/
+.DS_Store
+node_modules/
+__pycache__/
+*.pyc

@@ -1,0 +1,515 @@
+[
+ {
+  "t": 0.0,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.922,
+  "evidence": "film: Yachiyo close-up",
+  "ja": "世界で一番おひめさま",
+  "zh": "世界第一的公主殿下"
+ },
+ {
+  "t": 4.52,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.286,
+  "evidence": "film: Yachiyo centre spotlight (timbre model said K — overruled)",
+  "ja": "そういう扱い心得てよね",
+  "zh": "这种礼仪可要好好记在心上"
+ },
+ {
+  "t": 28.94,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.11,
+  "evidence": "film: Kaguya plays with her twin tail",
+  "ja": "その一　いつもと違う髪形に気が付くこと",
+  "zh": "第一条 要时刻留意我与平日不同的发型"
+ },
+ {
+  "t": 33.98,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.964,
+  "evidence": "lrc + audio agree",
+  "ja": "その二　ちゃんと靴まで見ること",
+  "zh": "第二条 要好好把我从头到脚的装扮都看清"
+ },
+ {
+  "t": 37.1,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.987,
+  "evidence": "lrc + audio agree",
+  "ja": "いいね？",
+  "zh": "明白吗？"
+ },
+ {
+  "t": 37.7,
+  "voice": "KY",
+  "lrc_tag": "輝夜?",
+  "pY": 0.889,
+  "evidence": "film: both sing, peace signs (LRC: 輝夜?)",
+  "ja": "その三　わたしの一言には三つの言葉で返事すること",
+  "zh": "第三条 我每说一句话你都要用三句话回应"
+ },
+ {
+  "t": 42.04,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.846,
+  "evidence": "lrc + audio agree",
+  "ja": "わかったら右手がお留守なのを",
+  "zh": "若听懂了就快想想办法"
+ },
+ {
+  "t": 45.1,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.771,
+  "evidence": "lrc + audio agree",
+  "ja": "なんとかして！",
+  "zh": "别让我的右手孤单待着呀！"
+ },
+ {
+  "t": 46.34,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.575,
+  "evidence": "film: Kaguya",
+  "ja": "別にわがままなんて言ってないんだから",
+  "zh": "我可不是在任性乱说话哦"
+ },
+ {
+  "t": 50.64,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.496,
+  "evidence": "the user, by ear (2026-11-23)",
+  "ja": "キミに心から思って欲しいの",
+  "zh": "只是希望你能打从心底觉得"
+ },
+ {
+  "t": 54.02,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.47,
+  "evidence": "film: Yachiyo sings beside Iroha",
+  "ja": "かわいいって",
+  "zh": "我很可爱呢"
+ },
+ {
+  "t": 61.7,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.217,
+  "evidence": "lrc + audio agree",
+  "ja": "世界で一番おひめさま",
+  "zh": "世界第一的公主殿下"
+ },
+ {
+  "t": 65.58,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.163,
+  "evidence": "lrc + audio agree",
+  "ja": "気が付いて　ねえねえ",
+  "zh": "快注意到我吧 呐、呐"
+ },
+ {
+  "t": 68.16,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.044,
+  "evidence": "lrc + audio agree",
+  "ja": "待たせるなんて論外よ",
+  "zh": "让我等待可是绝不允许的"
+ },
+ {
+  "t": 70.22,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.793,
+  "evidence": "lrc + audio agree",
+  "ja": "わたしを誰だと思ってるの？",
+  "zh": "你把我当成谁啦？"
+ },
+ {
+  "t": 73.84,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.849,
+  "evidence": "lrc + audio agree",
+  "ja": "もう何だか　あまいものが食べたい！",
+  "zh": "不知怎么地 突然好想吃甜点！"
+ },
+ {
+  "t": 81.3,
+  "voice": "Y",
+  "lrc_tag": "八千代?",
+  "pY": 0.866,
+  "evidence": "film + audio",
+  "ja": "いますぐによ",
+  "zh": "现在就要哟"
+ },
+ {
+  "t": 87.82,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.272,
+  "evidence": "lrc + audio agree",
+  "ja": "イェエー",
+  "zh": "耶——"
+ },
+ {
+  "t": 89.26,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.761,
+  "evidence": "lrc (audio weak: short line)",
+  "ja": "ヘイベイビー",
+  "zh": "嘿、宝贝"
+ },
+ {
+  "t": 98.52000000000001,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.105,
+  "evidence": "lrc + audio agree",
+  "ja": "欠点？かわいいの間違いでしょ",
+  "zh": "缺点？那一定是「可爱」没错啦"
+ },
+ {
+  "t": 101.18,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.073,
+  "evidence": "lrc + audio agree",
+  "ja": "文句は許しませんの",
+  "zh": "抱怨什么的绝不原谅哦"
+ },
+ {
+  "t": 103.16,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.758,
+  "evidence": "lrc + audio agree",
+  "ja": "あのね？わたしの話ちゃんと聞いてる？",
+  "zh": "喂？你有在好好听我说话吗？"
+ },
+ {
+  "t": 106.25999999999999,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.075,
+  "evidence": "lrc + audio agree",
+  "ja": "ちょっとぉ・・・",
+  "zh": "真是的…"
+ },
+ {
+  "t": 106.84,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.233,
+  "evidence": "lrc + audio agree",
+  "ja": "あ、それとね？白いおうまさん",
+  "zh": "啊、还有啊？白色的马儿"
+ },
+ {
+  "t": 109.1,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.158,
+  "evidence": "lrc + audio agree",
+  "ja": "決まってるでしょ？",
+  "zh": "那是当然的吧？"
+ },
+ {
+  "t": 110.25999999999999,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.016,
+  "evidence": "lrc + audio agree",
+  "ja": "迎えに来て",
+  "zh": "快来迎接我嘛"
+ },
+ {
+  "t": 111.4,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.479,
+  "evidence": "the user, by ear (2026-11-23)",
+  "ja": "わかったらかしずいて",
+  "zh": "明白了就快毕恭毕敬地"
+ },
+ {
+  "t": 112.86,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.908,
+  "evidence": "lrc + audio agree",
+  "ja": "手を取って「おひめさま」って",
+  "zh": "牵起我的手 称我「公主殿下」"
+ },
+ {
+  "t": 115.38,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.135,
+  "evidence": "lrc + audio agree",
+  "ja": "べつに",
+  "zh": "才不是"
+ },
+ {
+  "t": 116.78,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.109,
+  "evidence": "lrc + audio agree",
+  "ja": "わがままなんて言ってないんだから",
+  "zh": "在任性乱说话呢"
+ },
+ {
+  "t": 119.53999999999999,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.955,
+  "evidence": "lrc + audio agree",
+  "ja": "でもね",
+  "zh": "不过啊"
+ },
+ {
+  "t": 120.84,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.732,
+  "evidence": "lrc + audio agree",
+  "ja": "少しくらい叱ってくれたっていいのよ？",
+  "zh": "偶尔稍微训斥我一下也可以的哟？"
+ },
+ {
+  "t": 131.3,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.037,
+  "evidence": "lrc + audio agree",
+  "ja": "世界でわたしだけのおうじさま",
+  "zh": "全世界独属我的王子殿下"
+ },
+ {
+  "t": 134.72,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.139,
+  "evidence": "lrc + audio agree",
+  "ja": "気がついて　ほらほら",
+  "zh": "快发现吧 喂、喂"
+ },
+ {
+  "t": 137.28,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.075,
+  "evidence": "lrc + audio agree",
+  "ja": "おててが空いてます",
+  "zh": "我的手正空着呢"
+ },
+ {
+  "t": 138.8,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.917,
+  "evidence": "lrc + audio agree",
+  "ja": "無口で無愛想なおうじさま",
+  "zh": "沉默又冷淡的王子殿下"
+ },
+ {
+  "t": 142.9,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.815,
+  "evidence": "lrc + audio agree",
+  "ja": "もう　どうして！　気がついてよ早く",
+  "zh": "真是的！为什么还不快注意到呀"
+ },
+ {
+  "t": 148.14,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.184,
+  "evidence": "lrc + audio agree",
+  "ja": "ぜったいキミはわかってない！",
+  "zh": "你绝对不明白吧！"
+ },
+ {
+  "t": 153.2,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.007,
+  "evidence": "lrc + audio agree",
+  "ja": "わかってないわ・・・",
+  "zh": "根本不明白嘛…"
+ },
+ {
+  "t": 162.66,
+  "voice": "K",
+  "lrc_tag": "輝夜?",
+  "pY": 0.004,
+  "evidence": "lrc + audio agree",
+  "ja": "イェエーエー",
+  "zh": "耶——"
+ },
+ {
+  "t": 163.26,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.94,
+  "evidence": "lrc + audio agree",
+  "ja": "いちごの乗ったショートケーキ",
+  "zh": "点缀着草莓的松软蛋糕"
+ },
+ {
+  "t": 167.66,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.707,
+  "evidence": "the user, by ear (2026-11-23) — Yachiyo just before, nearly seamless",
+  "ja": "こだわりたまごのとろけるプリン",
+  "zh": "严选鸡蛋制成的滑嫩布丁"
+ },
+ {
+  "t": 171.64,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.816,
+  "evidence": "lrc + audio agree",
+  "ja": "みんな　みんな　我慢します・・・",
+  "zh": "这些、这些…我都可以忍耐…"
+ },
+ {
+  "t": 173.96,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.977,
+  "evidence": "lrc + audio agree",
+  "ja": "わがままな子だと思わないで",
+  "zh": "别以为我是个任性的女孩"
+ },
+ {
+  "t": 176.02,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.138,
+  "evidence": "lrc + audio agree",
+  "ja": "わたしだってやればできるもん",
+  "zh": "只要我想做也能好好坚持"
+ },
+ {
+  "t": 178.02,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.016,
+  "evidence": "lrc + audio agree",
+  "ja": "あとで後悔するわよ",
+  "zh": "以后你一定会后悔的哦"
+ },
+ {
+  "t": 185.86,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.781,
+  "evidence": "the user, by ear (2026-11-23)",
+  "ja": "当然です！　だってわたしは",
+  "zh": "那是当然！因为本公主可是"
+ },
+ {
+  "t": 188.08,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.027,
+  "evidence": "lrc + audio agree",
+  "ja": "世界で一番おひめさま",
+  "zh": "世界第一的公主殿下"
+ },
+ {
+  "t": 191.72,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.323,
+  "evidence": "lrc + audio agree",
+  "ja": "ちゃんと見ててよね",
+  "zh": "要好好注视着我呀"
+ },
+ {
+  "t": 193.94,
+  "voice": "K",
+  "lrc_tag": "輝夜",
+  "pY": 0.231,
+  "evidence": "lrc + audio agree",
+  "ja": "どこかに行っちゃうよ？",
+  "zh": "不然我说不定就消失不见咯？"
+ },
+ {
+  "t": 196.12,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.844,
+  "evidence": "lrc + audio agree",
+  "ja": "ふいに抱きしめられた",
+  "zh": "突然被你一把拥入怀中"
+ },
+ {
+  "t": 198.12,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.887,
+  "evidence": "lrc + audio agree",
+  "ja": "急に　そんな　えっ？",
+  "zh": "这么突然…诶？"
+ },
+ {
+  "t": 199.94,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.652,
+  "evidence": "lrc + audio agree",
+  "ja": "「轢かれる　危ないよ」",
+  "zh": "「会被车撞到 太危险了」"
+ },
+ {
+  "t": 202.34,
+  "voice": "Y",
+  "lrc_tag": "八千代",
+  "pY": 0.929,
+  "evidence": "lrc + audio agree",
+  "ja": "そう言ってそっぽ向くキミ",
+  "zh": "你这么说着却把头转向一边"
+ },
+ {
+  "t": 206.78,
+  "voice": "KY",
+  "lrc_tag": "合唱?",
+  "pY": 0.166,
+  "evidence": "the user, by ear (2026-11-23)",
+  "ja": "・・・こっちのが危ないわよ",
+  "zh": "…这才更让我心跳危险啊"
+ },
+ {
+  "t": 211.66,
+  "voice": "KY",
+  "lrc_tag": "合唱",
+  "pY": 0.284,
+  "evidence": "lrc + audio agree",
+  "ja": "イェエー",
+  "zh": "耶——"
+ },
+ {
+  "t": 214.92000000000002,
+  "voice": "KY",
+  "lrc_tag": "合唱",
+  "pY": 0.103,
+  "evidence": "lrc + audio agree",
+  "ja": "ヘイベイビー",
+  "zh": "嘿 宝贝"
+ }
+]

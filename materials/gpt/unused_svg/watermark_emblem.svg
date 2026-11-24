@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="1.2"><circle cx="256" cy="256" r="182"/><circle cx="256" cy="256" r="172"/><circle cx="256" cy="256" r="158"/><circle cx="256" cy="256" r="148"/><circle cx="256" cy="256" r="96"/><circle cx="256" cy="256" r="84"/><circle cx="256" cy="256" r="72"/></g>
+    <g stroke-width="1.4">
+      <ellipse cx="256" cy="256" rx="132" ry="34"/><ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(22.5 256 256)"/><ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(45 256 256)"/><ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(67.5 256 256)"/>
+      <ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(90 256 256)"/><ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(112.5 256 256)"/><ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(135 256 256)"/><ellipse cx="256" cy="256" rx="132" ry="34" transform="rotate(157.5 256 256)"/>
+    </g>
+    <g stroke-width="1.8">
+      <ellipse cx="232" cy="118" rx="16" ry="46" transform="rotate(-18 232 118)"/><ellipse cx="280" cy="118" rx="16" ry="46" transform="rotate(18 280 118)"/>
+      <ellipse cx="232" cy="118" rx="7" ry="27" transform="rotate(-18 232 118)"/><ellipse cx="280" cy="118" rx="7" ry="27" transform="rotate(18 280 118)"/>
+      <path d="M210 150Q256 124 302 150"/>
+    </g>
+    <g stroke-width="1.6">
+      <g><path d="M188 268Q172 296 166 326"/><path d="M194 280Q170 296 152 320Q176 316 194 292"/><path d="M182 300Q154 314 136 338Q164 336 184 314"/><path d="M176 320Q148 334 132 356Q160 354 178 334"/></g>
+      <g transform="translate(512 0) scale(-1 1)"><path d="M188 268Q172 296 166 326"/><path d="M194 280Q170 296 152 320Q176 316 194 292"/><path d="M182 300Q154 314 136 338Q164 336 184 314"/><path d="M176 320Q148 334 132 356Q160 354 178 334"/></g>
+    </g>
+    <g stroke-width="2.4"><path d="M238 176A94 94 0 1 0 238 336"/><path d="M282 192A64 64 0 1 1 282 320"/></g>
+    <g stroke-width="2"><polygon points="256,206 264,236 291,221 276,248 306,256 276,264 291,291 264,276 256,306 248,276 221,291 236,264 206,256 236,248 221,221 248,236"/></g>
+    <g stroke-width="1.4">
+      <polygon points="256,66 266,76 256,86 246,76"/><polygon points="446,256 436,266 426,256 436,246"/><polygon points="256,446 266,436 256,426 246,436"/><polygon points="66,256 76,266 86,256 76,246"/>
+      <polygon points="390,122 400,132 390,142 380,132"/><polygon points="390,390 400,380 390,370 380,380"/><polygon points="122,390 132,380 122,370 112,380"/><polygon points="122,122 132,132 122,142 112,132"/>
+      <polygon points="256,118 264,126 256,134 248,126"/><polygon points="394,256 402,264 394,272 386,264"/><polygon points="256,394 264,386 256,378 248,386"/><polygon points="118,256 126,264 118,272 110,264"/>
+    </g>
+    <g fill="#FFFFFF" stroke="none">
+      <circle cx="256" cy="104" r="3"/><circle cx="256" cy="408" r="3"/><circle cx="104" cy="256" r="3"/><circle cx="408" cy="256" r="3"/><circle cx="330" cy="182" r="2.6"/><circle cx="330" cy="330" r="2.6"/>
+      <circle cx="182" cy="330" r="2.6"/><circle cx="182" cy="182" r="2.6"/><circle cx="256" cy="146" r="2.4"/><circle cx="366" cy="256" r="2.4"/><circle cx="256" cy="366" r="2.4"/><circle cx="146" cy="256" r="2.4"/>
+    </g>
+  </g>
+</svg>

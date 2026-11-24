@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-width="1.2">
+      <polyline points="64,0 52,20 34,44 16,82 0,128"/>
+      <polyline points="64,0 76,20 94,44 112,82 128,128"/>
+      <polyline points="192,0 180,20 162,44 144,82 128,128"/>
+      <polyline points="192,0 204,20 222,44 240,82 256,128"/>
+      <polyline points="0,128 16,174 34,212 52,236 64,256"/>
+      <polyline points="128,128 112,174 94,212 76,236 64,256"/>
+      <polyline points="128,128 144,174 162,212 180,236 192,256"/>
+      <polyline points="256,128 240,174 222,212 204,236 192,256"/>
+    </g>
+    <g stroke-width="1.4">
+      <g transform="translate(64 0)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+      <g transform="translate(192 0)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+      <g transform="translate(0 128)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+      <g transform="translate(128 128)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+      <g transform="translate(256 128)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+      <g transform="translate(64 256)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+      <g transform="translate(192 256)"><circle r="16"/><path d="M-5 -12A14 14 0 1 0 -5 12"/><path d="M4 -9A10 10 0 1 1 4 9"/><polygon points="0,-7 2,-2 7,0 2,2 0,7 -2,2 -7,0 -2,-2"/></g>
+    </g>
+    <g stroke-width="1.2">
+      <polygon points="32,64 36,68 32,72 28,68"/><polygon points="96,64 100,68 96,72 92,68"/><polygon points="160,64 164,68 160,72 156,68"/><polygon points="224,64 228,68 224,72 220,68"/>
+      <polygon points="32,192 36,196 32,200 28,196"/><polygon points="96,192 100,196 96,200 92,196"/><polygon points="160,192 164,196 160,200 156,196"/><polygon points="224,192 228,196 224,200 220,196"/>
+    </g>
+  </g>
+</svg>

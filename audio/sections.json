@@ -1,0 +1,20 @@
+{
+ "note": "Measured 2026-11-23 from the Demucs drum stem (tools/grid.py) and a rough Whisper pass on the vocal stem. Bar = 2.034 s at 118.0 BPM, first downbeat 0.736 s. Line times are rough until the user's LRC arrives.",
+ "bpm": 118.0, "beat": 0.5085, "bar": 2.034, "downbeat0": 0.736, "dur": 226.03,
+ "sections": [
+  {"id": "cold",     "t0": 0.00,   "t1": 10.91,  "bars": "0-4",    "what": "cold-open hook sung over the intro; drums enter bar 2 (4.80)"},
+  {"id": "intro",    "t0": 10.91,  "t1": 28.70,  "bars": "5-13",   "what": "instrumental, ~18 s"},
+  {"id": "v1",       "t0": 28.70,  "t1": 45.48,  "bars": "14-21",  "what": "rules list: sono-1 28.7, sono-2 33.9, sono-3 37.5, right hand 42.0"},
+  {"id": "pre1",     "t0": 45.48,  "t1": 59.40,  "bars": "22-28",  "what": "drums OUT bars 22-25 (bass only), back 26-28"},
+  {"id": "c1",       "t0": 59.40,  "t1": 82.10,  "bars": "29-39",  "what": "chorus 1; 'right now' tag at 81.8"},
+  {"id": "inter",    "t0": 82.10,  "t1": 98.36,  "bars": "40-47",  "what": "instrumental with 'Hey' / 'Hey baby' chops (82.7, 86.6)"},
+  {"id": "v2",       "t0": 98.36,  "t1": 115.10, "bars": "48-55",  "what": "verse 2: flaws?, listen!, white horse 107, come get me 110.1, kneel 111.2"},
+  {"id": "pre2",     "t0": 115.10, "t1": 130.91, "bars": "56-63",  "what": "drums OUT bars 56-59, back 60-63"},
+  {"id": "c2",       "t0": 130.91, "t1": 161.41, "bars": "64-78",  "what": "chorus 2 (prince), 'you don't get it' repeats 148-155.7, 'Yeah' 156"},
+  {"id": "break",    "t0": 161.41, "t1": 163.45, "bars": "79",     "what": "one bar, vocal out"},
+  {"id": "bridge",   "t0": 163.45, "t1": 181.75, "bars": "80-88",  "what": "sweets list / I'll hold back; drums quieter"},
+  {"id": "build",    "t0": 181.75, "t1": 185.30, "bars": "89-90",  "what": "build, vocal out"},
+  {"id": "final",    "t0": 185.30, "t1": 210.23, "bars": "91-102", "what": "final chorus + hug / 'run over' / 'this is more dangerous' (206.2-208.6)"},
+  {"id": "outro",    "t0": 210.23, "t1": 226.03, "bars": "103-110","what": "instrumental outro; drums stop 224.5"}
+ ]
+}
